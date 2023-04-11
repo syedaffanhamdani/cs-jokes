@@ -156,3 +156,23 @@ Keep these 2 laws in mind:
 # AutoDeployment
 
 People discussing if there should be a hold between staging and production autodeployment
+TODO MEME here
+
+# What your choice of data structure says about you
+
+Array: You're a classic, no-BS kind of person who values simplicity and speed.
+
+Linked list: You're a risk taker who likes to live on the edge and push the boundaries.
+
+Hash map: You're a performance-oriented individual who doesn't settle for anything less than optimal.
+
+Binary tree: You're a perfectionist who seeks balance and order in everything you do.
+
+Stack: You're organized, methodical, and enjoy IHOP
+
+Heap: You're ambitious and always aiming for the top, even if it means getting a little messy along the way.
+
+Graph: You're a creative problem solver who thinks outside the box and loves exploring new possibilities.
+
+Trie: You're a wordsmith who knows how to handle complexity and make sense of even the most convoluted data. 
+
