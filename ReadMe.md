@@ -1,6 +1,6 @@
-This file is collection of Jokes aout Software Development
+This file is collection of Jokes about Software Development
 
-# General
+# One liners
 
 why sql developer looks at the sky at night? They like to count (\*)
 Why do girls like python more than java? because Python does not treat them as objects
@@ -10,7 +10,7 @@ What is difference between C and C++? // 1
 
 Its online, its offline. What is it? // service worker
 
-# JavaScript
+# The weird JavaScript
 
 ## typeOf NaN is a number
 
@@ -31,13 +31,13 @@ NaN === NaN; // false
 Number(); // returns 0
 Number(undefined); // returns NaN
 
-# Null has wierd behavior
+## Null has wierd behavior
 
 null < 0 // false
 null == 0 // false
 null <= 0 // true
 
-# multiple comparative operators
+## multiple comparative operators
 
 1>2>3
 true
@@ -78,9 +78,9 @@ Rich people Like bill gates say money does not matter
 Beautiful people would say that looks dont matter
 Programmers say warninings dont matter
 
-# Intellij
+# Springboot banner
 
-- hide spring boot banner feature
+- Why would spring boot provide hide spring boot banner switch when they themselves provide the banner
 
 # Software Testing
 
@@ -100,8 +100,6 @@ Seasoned engineers worry about development speed.
 
 Code is more often read than it is written
 
-Rust is a good language for OS Utilities
-
 # Git
 
 quote from anonymous git user:
@@ -120,9 +118,9 @@ To catch some exceptions!
 with the amount of merchandise big tech gives
 like cup, cap, hoodie, t shrt, etc
 
-Laid off employees would have harder time forgetting about the company than their ex.
+Laid off employees would have harder time forgetting about the company than their Ex.
 
-# SW dev
+# Struggles of a developer
 
 half of the struggle in SW dev is believing you can problem at hand
 
