@@ -176,3 +176,5 @@ Graph: You're a creative problem solver who thinks outside the box and loves exp
 
 Trie: You're a wordsmith who knows how to handle complexity and make sense of even the most convoluted data. 
 
+# Done and almost done
+In CS there is a massively huge difference between done and almost done
