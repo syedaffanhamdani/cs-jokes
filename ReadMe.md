@@ -13,9 +13,9 @@ This file is collection of Jokes about Software Development
 
 ## typeOf NaN is a number
 
-typeof NaN; // “number”
-NaN == “number”; // false
-NaN == number; // false
+- typeof NaN; // “number”
+- NaN == “number”; // false
+- NaN == number; // false
 
 ## Nan is not equal to NaN
 
@@ -27,21 +27,21 @@ NaN === NaN; // false
 
 ## Number()
 
-Number(); // returns 0
-Number(undefined); // returns NaN
+- Number(); // returns 0
+- Number(undefined); // returns NaN
 
 ## Null has wierd behavior
 
-null < 0 // false
-null == 0 // false
-null <= 0 // true
+- null < 0 // false
+- null == 0 // false
+- null <= 0 // true
 
 ## multiple comparative operators
 
-1>2>3
-true
-3>2>1
-false
+- 1>2>3
+-- true
+- 3>2>1
+-- false
 
 # Perfect tech stack
 
@@ -49,11 +49,11 @@ Perfect tech stack like a perfect partner. It just does not exist, so lets get t
 
 # Technical Confidence:
 
-technical confidence comes from one of two things: ignorance or experience
+Technical confidence comes from one of two things: ignorance or experience
 
 # Copy Paste
 
-copypaste is the fastest way to create bugs.
+Copypaste is the fastest way to create bugs.
 
 # Cloud
 
