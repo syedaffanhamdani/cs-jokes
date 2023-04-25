@@ -7,8 +7,7 @@ This file is collection of Jokes about Software Development
 - Why do programmers prefer dark mode? Because light attracts bugs.
 - What is object oriented way of becoming rich? // Inheritance
 - What is difference between C and C++? // 1
-
-Its online, its offline. What is it? // service worker
+- Its online, its offline. What is it? // service worker
 
 # The weird JavaScript
 
@@ -61,18 +60,17 @@ copypaste is the fastest way to create bugs.
 what are clouds made of? Linux servers mostly!
 
 # Technical debt
-
 Any feature that does not get traction from user is a technical debt and should be removed.
 
 # Good software jokes?
-
 Why good software jokes are so rare?
 
 Because first good software needs to exist before we can joke about it.
 
 # Index 1
-
 My wife complained that I care more about coding than her. I told her that in my array of interests, she is at [1](position 1). She was satisfied.
+
+# Warnings do not matter
 
 Rich people Like bill gates say money does not matter
 Beautiful people would say that looks dont matter
