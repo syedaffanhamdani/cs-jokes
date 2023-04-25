@@ -38,10 +38,8 @@ NaN === NaN; // false
 
 ## multiple comparative operators
 
-- 1>2>3
--- true
-- 3>2>1
--- false
+- 1>2>3 --> true
+- 3>2>1 --> false
 
 # Perfect tech stack
 
