@@ -1,7 +1,7 @@
 This file is collection of Jokes about Software Development
 
 # One liners
-
+- what does STD mean in Software Development? Scrum Transmitted Diseases
 - why sql developer looks at the sky at night? They like to count (\*)
 - Why do girls like python more than java? because Python does not treat them as objects
 - Why do programmers prefer dark mode? Because light attracts bugs.
