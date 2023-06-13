@@ -49,6 +49,10 @@ Perfect tech stack like a perfect partner. It just does not exist, so lets get t
 
 Technical confidence comes from one of two things: ignorance or experience
 
+# Complicated Software:
+When does Software/Your code base starts to get complicated/Messy? 
+- Immediately after someone says this feature can be implemented in one hour
+
 # Copy Paste
 
 Copypaste is the fastest way to create bugs.
