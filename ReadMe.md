@@ -176,3 +176,6 @@ Trie: You're a wordsmith who knows how to handle complexity and make sense of ev
 
 # Done and almost done
 In CS there is a massively huge difference between done and almost done
+
+# Debugging
+its a modal mystery when you are the detective and the person who committed the crime.
