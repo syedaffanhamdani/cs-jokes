@@ -1,7 +1,7 @@
 This file is collection of Jokes about Software Development
 
 # STD
- what does STD mean in Software Development? Scrum Transmitted Diseases
+ what does STD mean in Software Development? Scrum Transmitted (mental health) Diseases
 # SQL
 - why sql developer looks at the sky at night? They like to count (\*)
 # Object Oriented Programming
