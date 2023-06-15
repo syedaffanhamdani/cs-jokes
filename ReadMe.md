@@ -1,15 +1,19 @@
 This file is collection of Jokes about Software Development
 
-# One liners
-- what does STD mean in Software Development? Scrum Transmitted Diseases
+# STD
+ what does STD mean in Software Development? Scrum Transmitted Diseases
+# SQL
 - why sql developer looks at the sky at night? They like to count (\*)
+# Object Oriented Programming
 - Why do girls like python more than java? because Python does not treat them as objects
-- Why do programmers prefer dark mode? Because light attracts bugs.
 - What is object oriented way of becoming rich? // Inheritance
+# Dark Mode
+ Why do programmers prefer dark mode? Because light attracts bugs.
+# C and C++
 - What is difference between C and C++? // 1
-- Its online, its offline. What is it? // service worker
 
 # The weird JavaScript
+- Its online, its offline. What is it? // service worker
 
 ## typeOf NaN is a number
 
