@@ -1,5 +1,10 @@
 This file is collection of Jokes about Software Development
 
+#Whys of dev life
+what are the two biggest why questions in a developers life?
+- why does it not work? 😩
+- why does it work!!! 🤯
+
 # STD
  what does STD mean in Software Development? Scrum Transmitted (mental health) Diseases
 # SQL
