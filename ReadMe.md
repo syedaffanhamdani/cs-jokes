@@ -1,12 +1,10 @@
 This file is collection of Jokes about Software Development
 
-#Whys of dev life
+# Whys of dev life
 what are the two biggest why questions in a developers life?
 - why does it not work? 😩
 - why does it work!!! 🤯
 
-# STD
- what does STD mean in Software Development? Scrum Transmitted (mental health) Diseases
 # SQL
 - why sql developer looks at the sky at night? They like to count (\*)
 # Object Oriented Programming
@@ -59,12 +57,16 @@ Perfect tech stack like a perfect partner. It just does not exist, so lets get t
 Technical confidence comes from one of two things: ignorance or experience
 
 # Complicated Software:
+
 When does Software/Your code base starts to get complicated/Messy? 
 - Immediately after someone says this feature can be implemented in one hour
 
 # Copy Paste
 
 Copypaste is the fastest way to create bugs.
+
+# STD
+ what does STD mean in Software Development? Scrum Transmitted (mental health) Diseases
 
 # Cloud
 
@@ -185,6 +187,16 @@ Trie: You're a wordsmith who knows how to handle complexity and make sense of ev
 
 # Done and almost done
 In CS there is a massively huge difference between done and almost done
+
+# Special Cases
+In programming the special cases are not special enough to break the rules
+
+# Simple and Complex
+Simple is better than complex, complex is better than complicated
+
+# Now and never
+Now is better than never
+Although never is often better than now.
 
 # Debugging
 its a modal mystery when you are the detective and the person who committed the crime.
