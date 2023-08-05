@@ -9,7 +9,7 @@ what are the two biggest why questions in a developers life?
 
 the fact that JIRA is so popular proves most software development theory wrong
  - user experience is terrible and most users hate it
- - it encourages adapting worst practices
+ - it encourages adapting worst practices and vice versa
  - it is costly
  - performance is terrible
 
