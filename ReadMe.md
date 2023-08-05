@@ -5,6 +5,17 @@ what are the two biggest why questions in a developers life?
 - why does it not work? 😩
 - why does it work!!! 🤯
 
+# JIRA
+
+the fact that JIRA is so popular proves most software development theory wrong
+ - user experience is terrible and most users hate it
+ - it encourages adapting worst practices
+ - it is costly
+ - performance is terrible
+
+yet it has most of the market share in a market of highly opinionated software developers
+ 
+
 # SQL
 - why sql developer looks at the sky at night? They like to count (\*)
 # Object Oriented Programming
