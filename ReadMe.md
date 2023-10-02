@@ -144,7 +144,7 @@ Laid off employees would have harder time forgetting about the company than thei
 
 # Struggles of a developer
 
-half of the struggle in SW dev is believing you can problem at hand
+half of the struggle in SW dev is believing you can solve problem at hand
 
 # TDD and BDD
 
