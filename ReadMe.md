@@ -5,6 +5,9 @@ what are the two biggest why questions in a developers life?
 - why does it not work? 😩
 - why does it work!!! 🤯
 
+# Recursive humor
+In order to understand recursion, one must understand recursion
+
 # JIRA
 
 the fact that JIRA is so popular proves most software development theory wrong
