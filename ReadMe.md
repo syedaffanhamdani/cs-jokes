@@ -8,6 +8,17 @@ what are the two biggest why questions in a developers life?
 # Recursive humor
 In order to understand recursion, one must understand recursion
 
+# A bit off
+Two bytes meet.  The first byte asks, “Are you ill?”
+
+The second byte replies, “No, just feeling a bit off.”
+
+# boolean
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+
+# Java Errors and Exception
+5 Errors walk into a bar. The barman says, “Normally I’d Throw you all out, but tonight I’ll make an Exception.”
+
 # JIRA
 
 the fact that JIRA is so popular proves most software development theory wrong
