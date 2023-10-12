@@ -19,6 +19,9 @@ The best thing about a boolean is even if you are wrong, you are only off by a b
 # Java Errors and Exception
 5 Errors walk into a bar. The barman says, “Normally I’d Throw you all out, but tonight I’ll make an Exception.”
 
+# Spider and Web
+Which animal is the absolute expert in navigating the internet? Spiders. They know all about the web
+
 # JIRA
 
 the fact that JIRA is so popular proves most software development theory wrong
