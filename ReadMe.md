@@ -225,6 +225,9 @@ In programming the special cases are not special enough to break the rules
 # Simple and Complex
 Simple is better than complex, complex is better than complicated
 
+# Code fast and faster code
+You can either code fast or produce faster code
+
 # Now and never
 Now is better than never
 Although never is often better than now.
