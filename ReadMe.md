@@ -17,7 +17,7 @@ The second byte replies, “No, just feeling a bit off.”
 The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
 # permenant
-There is nothing more permenat than the temporary workaround in code. 
+There is nothing more permenant than the temporary workaround in code. 
 
 # Java Errors and Exception
 5 Errors walk into a bar. The barman says, “Normally I’d Throw you all out, but tonight I’ll make an Exception.”
