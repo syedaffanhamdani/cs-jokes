@@ -13,11 +13,17 @@ Two bytes meet.  The first byte asks, “Are you ill?”
 
 The second byte replies, “No, just feeling a bit off.”
 
-# boolean
+# Boolean
 The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
-# permenant
+# Permenant
 There is nothing more permenant than the temporary workaround in code. 
+
+# Home Office
+ Why do businesses allow Software Developers to do home office? Beacuse Devs are
+ - not the best people when it comes to personal hygine
+ - not the nicest people to talk to either
+   so yeah, better have them away from office. 
 
 # Java Errors and Exception
 5 Errors walk into a bar. The barman says, “Normally I’d Throw you all out, but tonight I’ll make an Exception.”
