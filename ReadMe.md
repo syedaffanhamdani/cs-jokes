@@ -5,6 +5,10 @@ what are the two biggest why questions in a developers life?
 - why does it not work? 😩
 - why does it work!!! 🤯
 
+# Will Generative AI replace developers?
+- If you think your job can be replaced by AI you are right!
+- If you think your job cannot be replaced by AI you are also very right! 😸
+
 # Recursive humor
 In order to understand recursion, one must understand recursion
 
