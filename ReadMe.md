@@ -17,6 +17,13 @@ Two bytes meet.  The first byte asks, “Are you ill?”
 
 The second byte replies, “No, just feeling a bit off.”
 
+# Slow Java
+Knock Knock. Who's there?
+
+(long pause)
+
+Java.
+
 # Boolean
 The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
