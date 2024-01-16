@@ -24,6 +24,9 @@ Knock Knock. Who's there?
 
 Java.
 
+# Trip down the memory lane
+I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane.
+
 # Boolean
 The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
