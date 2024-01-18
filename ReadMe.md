@@ -1,7 +1,7 @@
-This file is collection of Jokes about Software Development
+This file is a collection of Jokes about Software Development
 
 # Whys of dev life
-what are the two biggest why questions in a developers life?
+what are the two biggest why questions in a developer's life?
 - why does it not work? 😩
 - why does it work!!! 🤯
 
@@ -34,24 +34,27 @@ The best thing about a boolean is even if you are wrong, you are only off by a b
 How do you explain the movie Inception to a programmer?
 When you run a VM inside another VM, inside another VM, inside another VM…, everything runs really slow.
 
+# Unix user friendly
+Unix is user-friendly, it is just very picky about its friends.
+
 # Permenant
-There is nothing more permenant than the temporary workaround in code. 
+There is nothing more permanent than the temporary workaround in code. 
 
 # Home Office
- Why do businesses allow Software Developers to do home office? Beacuse Devs are
- - not the best people when it comes to personal hygine
+ Why do businesses allow Software Developers to do home office? Because Devs are
+ - not the best people when it comes to personal hygiene
  - not the nicest people to talk to either
-   so yeah, better have them away from office. 
+   so yeah, you better have them away from the office. 
 
 # Java Errors and Exception
-5 Errors walk into a bar. The barman says, “Normally I’d Throw you all out, but tonight I’ll make an Exception.”
+5 Errors walk into a bar. The barman says, “Normally I’d throw you all out, but tonight I’ll make an Exception.”
 
 # Spider and Web
 Which animal is the absolute expert in navigating the internet? Spiders. They know all about the web
 
 # JIRA
 
-the fact that JIRA is so popular proves most software development theory wrong
+the fact that JIRA is so popular proves most software development theories wrong
  - user experience is terrible and most users hate it
  - it encourages adapting worst practices and vice versa
  - it is costly
@@ -61,17 +64,17 @@ yet it has most of the market share in a market of highly opinionated software d
  
 
 # SQL
-- why sql developer looks at the sky at night? They like to count (\*)
+- why do SQL developers look at the sky at night? They like to count (\*)
 # Object Oriented Programming
-- Why do girls like python more than java? because Python does not treat them as objects
-- What is object oriented way of becoming rich? // Inheritance
+- Why do girls like Python more than Java? because Python does not treat them as objects
+- What is an object-oriented way of becoming rich? // Inheritance
 # Dark Mode
  Why do programmers prefer dark mode? Because light attracts bugs.
 # C and C++
-- What is difference between C and C++? // 1
+- What is the difference between C and C++? // 1
 
 # The weird JavaScript
-- Its online, its offline. What is it? // service worker
+- It's online, it's offline. What is it? // service worker
 
 ## typeOf NaN is a number
 
@@ -92,7 +95,7 @@ NaN === NaN; // false
 - Number(); // returns 0
 - Number(undefined); // returns NaN
 
-## Null has wierd behavior
+## Null has weird behavior
 
 - null < 0 // false
 - null == 0 // false
@@ -105,7 +108,7 @@ NaN === NaN; // false
 
 # Perfect tech stack
 
-Perfect tech stack like a perfect partner. It just does not exist, so lets get to work
+Perfect tech stack like a perfect partner. It just does not exist, so let's get to work
 
 # Technical Confidence:
 
@@ -113,7 +116,7 @@ Technical confidence comes from one of two things: ignorance or experience
 
 # Complicated Software:
 
-When does Software/Your code base starts to get complicated/Messy? 
+When does Software/Your code base start to get complicated/Messy? 
 - Immediately after someone says this feature can be implemented in one hour
 
 # Copy Paste
@@ -128,31 +131,31 @@ Copypaste is the fastest way to create bugs.
 what are clouds made of? Linux servers mostly!
 
 # Technical debt
-Any feature that does not get traction from user is a technical debt and should be removed.
+Any feature that does not get traction from the user is a technical debt and should be removed.
 
 # Good software jokes?
 Why good software jokes are so rare?
 
-Because first good software needs to exist before we can joke about it.
+Because first, good software needs to exist before we can joke about it.
 
 # Index 1
 My wife complained that I care more about coding than her. I told her that in my array of interests, she is at [1](position 1). She was satisfied.
 
 # Warnings do not matter
 
-Rich people Like bill gates say money does not matter
-Beautiful people would say that looks dont matter
-Programmers say warninings dont matter
+Rich people like Bill Gates say money does not matter
+Beautiful people would say that looks don't matter
+Programmers say warnings don't matter
 
 # Springboot banner
 
-- Why would spring boot provide hide spring boot banner switch when they themselves provide the banner
+- Why would Spring Boot provide a hide spring boot banner switch when they themselves provide the banner
 
 # Software Testing
 
-Which months in the year has 28 days?
+Which months in the year have 28 days?
 
-all of them. Most of them have more than 28. Thats how bugs in production happen.
+all of them. Most of them have more than 28. That's how bugs in production happen.
 
 # VIM
 
@@ -168,8 +171,8 @@ Code is more often read than it is written
 
 # Git
 
-quote from anonymous git user:
-"Whenever I see a door with push sign, I pull first to avoid conflicts or push rejection"
+quote from an anonymous git user:
+"Whenever I see a door with a push sign, I pull first to avoid conflicts or push rejection"
 
 # Java
 
@@ -182,13 +185,13 @@ To catch some exceptions!
 # Tech layoffs
 
 with the amount of merchandise big tech gives
-like cup, cap, hoodie, t shrt, etc
+like cups, caps, hoodies, t-shirts, etc
 
-Laid off employees would have harder time forgetting about the company than their Ex.
+Laid-off employees would have a harder time forgetting about the company than their Ex.
 
 # Struggles of a developer
 
-half of the struggle in SW dev is believing you can solve problem at hand
+half of the struggle in SW dev is believing you can solve the problem at hand
 
 # TDD and BDD
 
@@ -209,7 +212,7 @@ Programming without BDD is trying to learn piano when sound comes a day later af
 – Why?
 – Because we don’t write tests.
 
-Amount of logging in production code is inversely prootial to number of tests writte
+The amount of logging in production code is inversely proportional to the number of tests written
 
 # Complicated but Simple:
 
@@ -219,10 +222,10 @@ Keep these 2 laws in mind:
 
 # AutoDeployment
 
-People discussing if there should be a hold between staging and production autodeployment
+People discussing if there should be a hold between staging and production auto-deployment
 TODO MEME here
 
-# What your choice of data structure says about you
+# What your choice of data structure say about you
 
 Array: You're a classic, no-BS kind of person who values simplicity and speed.
 
@@ -241,7 +244,7 @@ Graph: You're a creative problem solver who thinks outside the box and loves exp
 Trie: You're a wordsmith who knows how to handle complexity and make sense of even the most convoluted data. 
 
 # Done and almost done
-In Software Development there is a massively huge difference between done and almost done
+In Software Development, there is a massively huge difference between done and almost done
 
 # Special Cases
 In programming the special cases are not special enough to break the rules
