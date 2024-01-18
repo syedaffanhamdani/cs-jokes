@@ -30,6 +30,10 @@ I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k 
 # Boolean
 The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
+# Inception
+How do you explain the movie Inception to a programmer?
+When you run a VM inside another VM, inside another VM, inside another VM…, everything runs really slow.
+
 # Permenant
 There is nothing more permenant than the temporary workaround in code. 
 
