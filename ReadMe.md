@@ -30,6 +30,10 @@ I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k 
 # Boolean
 The best thing about a boolean is even if you are wrong, you are only off by a bit.
 
+# Bit off
+What did 0 say to 1?
+You are just a bit off.
+
 # Inception
 How do you explain the movie Inception to a programmer?
 When you run a VM inside another VM, inside another VM, inside another VM…, everything runs really slow.
